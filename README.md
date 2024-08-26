@@ -1,7 +1,7 @@
 ![logo](https://github.com/Sakshisingh-BV/Sakshisingh-BV/blob/main/GithubBanner.png)
 <h1 align="center">Hi 👋, I'm Sakshi Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" widht="400" src="https://codebulletin.github.io/MyPortfolio/assets/gif/coding.3272fa9c861c718b769a..gif">
+<img align="right" alt="coding" widht="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshisingh-bv&label=Profile%20views&color=0e75b6&style=flat" alt="sakshisingh-bv" /> </p>
 
