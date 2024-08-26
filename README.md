@@ -1,3 +1,4 @@
+![logo](https://www.canva.com/design/DAGO9c5s1qQ/FuFED8byZ0S6trKE4iBNTQ/edit?utm_content=DAGO9c5s1qQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <h1 align="center">Hi 👋, I'm Sakshi Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" widht="400" src="https://codebulletin.github.io/MyPortfolio/assets/gif/coding.3272fa9c861c718b769a..gif">
