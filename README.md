@@ -1,5 +1,4 @@
-![logo](![Uploading Blue Textured Space Landscape Hello World Desktop Wallpaper.png…]()
-)
+![logo](https://github.com/Sakshisingh-BV/Sakshisingh-BV/blob/main/GithubBanner.png)
 <h1 align="center">Hi 👋, I'm Sakshi Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" widht="400" src="https://codebulletin.github.io/MyPortfolio/assets/gif/coding.3272fa9c861c718b769a..gif">
