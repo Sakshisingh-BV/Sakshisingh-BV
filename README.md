@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sakshi Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" widht="400" src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif" 
+<img align="right" alt="coding" widht="400" src="https://codebulletin.github.io/MyPortfolio/assets/gif/coding.3272fa9c861c718b769a..gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshisingh-bv&label=Profile%20views&color=0e75b6&style=flat" alt="sakshisingh-bv" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **sakshisinghgn2023@gmail.com**
 
-- ⚡ Fun fact **The first computer mouse, invented by Douglas Engelbart in 1964, was made of wood!**
+- ⚡ Fun fact : **The first computer mouse, invented by Douglas Engelbart in 1964, was made of wood! **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
