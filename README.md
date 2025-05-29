@@ -1,4 +1,4 @@
-![logo](C:\Users\saksh\Downloads\AI_Generated_Image_2025-05-29.png)
+![logo](bgimg.png)
 <h1 align="center">Hi 👋, I'm Sakshi Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" widht="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
