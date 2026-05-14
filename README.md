@@ -24,16 +24,15 @@
 ```python
 class SakshiSingh:
     def __init__(self):
-        self.name        = "Sakshi Singh"
-        self.location    = "India 🇮🇳"
-        self.role        = "Software Engineer → AI/ML Engineer"
-        self.currently   = ["Machine Learning", "Deep Learning", "Web Dev"]
-        self.passion     = "Teaching machines to see, think & decide"
-        self.fun_fact    = "The first computer mouse (1964) was made of wood 🪵"
-        self.contact     = "sakshisinghgn2023@gmail.com"
+        self.name      = "Sakshi Singh"
+        self.education = "B.Tech CSE Undergraduate"
+        self.location  = "India 🇮🇳"
+        self.learning  = ["DSA", "Web Development", "AI/ML"]
+        self.goal      = "Becoming a skilled Software & AI Engineer"
+        self.fun_fact  = "I love turning ideas into real-world projects ✨"
 
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something intelligent 🤖")
+        print("Thanks for visiting my profile 🚀")
 
 me = SakshiSingh()
 me.say_hi()
