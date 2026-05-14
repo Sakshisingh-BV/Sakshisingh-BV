@@ -11,7 +11,7 @@
 ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝    ╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer+in+the+making+%F0%9F%A4%96;Teaching+machines+to+think+%F0%9F%A7%A0;Building+intelligent+systems+%F0%9F%9A%80;Passionate+Software+Engineer+from+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=71BCF7&center=true&vCenter=true&width=600&lines=%3E+Solving+problems+with+AI+;%3E+Turning+data+into+insights+" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=sakshisingh-bv&label=Neural+Pings&color=00d9ff&style=for-the-badge" alt="profile views" />
 
