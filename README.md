@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:0077b6&height=200&section=header&text=Sakshi%20Singh&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Software%20Developer&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:0077b6&height=200&section=header&text=Sakshi%20Singh&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=4th%20Year%20CSE%20Undergraduate%20|%20Software%20Developer&descAlignY=58&descSize=18&animation=fadeIn" />
 
                                         ```
                  ███████╗ █████╗ ██╗  ██╗███████╗██╗  ██╗██╗    ███████╗██╗███╗   ██╗ ██████╗ ██╗  ██╗
